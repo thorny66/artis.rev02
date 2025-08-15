@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Interactive, Interdisciplinary, Imaginative. 
+subtitle: Interactive, Interdisciplinary, Imaginative.
 
 profile:
   align: center

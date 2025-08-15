@@ -2,7 +2,7 @@
 layout: page
 title: gallery
 permalink: /projects/
-description: Here are some things we've done. 
+description: Here are some things we've done.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
