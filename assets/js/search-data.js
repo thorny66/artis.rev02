@@ -402,9 +402,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-5-11-25-pre-launch-launch",
+          title: '5/11/25 pre-launch launch',
+          description: "our unofficial debut, based around Plato&#39;s allegory of the cave.",
           section: "Projects",handler: () => {
               window.location.href = "/artis.rev02/projects/1_project/";
             },},{id: "projects-project-2",
@@ -459,7 +459,21 @@ ninja.data = [{
         title: 'Instagram',
         section: 'Socials',
         handler: () => {
-          window.open("https://instagram.com/https://www.instagram.com/artis.sf?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==", "_blank");
+          window.open("https://instagram.com/https://www.instagram.com/artis.sf", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/https://www.linkedin.com/company/artis-sf", "_blank");
+        },
+      },{
+        id: 'social-youtube',
+        title: 'YouTube',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://youtube.com/@youtube.com/@ArtIsCollective", "_blank");
         },
       },{
         id: 'social-custom_social',
