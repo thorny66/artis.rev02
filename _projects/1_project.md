@@ -45,6 +45,3 @@ above is our performance. below is our afterparty. observe them until you do not
 <div class="caption">
     left: delicous food, contributed by Sara Hegde. middle: Emmett Van Leer banging out a tune. right: the afterparty in _"full swing"_.
 </div>
-```
-
-{% endraw %}
