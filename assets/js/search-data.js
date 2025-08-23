@@ -426,7 +426,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/artis-sf", "_blank");
+          window.open("https://www.linkedin.com/in/company/artis-sf", "_blank");
         },
       },{
         id: 'social-youtube',
