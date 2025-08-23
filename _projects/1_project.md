@@ -4,7 +4,7 @@ title: 5/11/25 pre-launch launch
 description: our unofficial debut, based around Plato's allegory of the cave.
 img: assets/img/cavethumbnail.jpg
 importance: 1
-category: work
+category: big events
 related_publications: false
 ---
 
