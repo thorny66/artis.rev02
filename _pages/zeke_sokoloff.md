@@ -1,1 +1,1 @@
-zeke sokolof is a stinky 'butt. Roasted! 
+zeke sokolof is a stinky 'butt. Roasted!
