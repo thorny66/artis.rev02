@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: brayden_pfp.JPG
-    content: about_einstein.md
+    content: brayden_meng.md
     image_circular: false # crops the image to make it circular
     more_info: >
       brayden.meng@artissf.com
@@ -43,4 +43,18 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       This is Eddie Chen.
+
+  - align: left
+    image: thomas_pfp.JPG
+    content: kay_karsono.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      This is Kay Karsono.
+
+  - align: right
+    image: rhino.png
+    content: chloe_hill.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      This is Chloe Hill.
 ---

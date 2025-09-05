@@ -1,0 +1,1 @@
+Chloe is a professional independent photographer focused on capturing real moments with clarity and style. She approaches every event with a creative eye and a steady hand to deliver timeless, authentic images.
