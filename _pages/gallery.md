@@ -19,18 +19,18 @@ horizontal: false
   </a>
   {% assign categorized_gallery = site.gallery | where: "category", category %}
   {% assign sorted_gallery = categorized_gallery | sort: "importance" %}
-  <!-- Generate cards for each project -->
+  <!-- Generate cards for each gallery -->
   {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_gallery %}
+    {% for gallery in sorted_gallery %}
       {% include gallery_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_gallery %}
+    {% for gallery in sorted_gallery %}
       {% include gallery.liquid %}
     {% endfor %}
   </div>
@@ -43,20 +43,20 @@ horizontal: false
 
 {% assign sorted_gallery = site.gallery | sort: "importance" %}
 
-  <!-- Generate cards for each project -->
+  <!-- Generate cards for each gallery -->
 
 {% if page.horizontal %}
 
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_gallery %}
+    {% for gallery in sorted_gallery %}
       {% include gallery_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_gallery %}
+    {% for gallery in sorted_gallery %}
       {% include gallery.liquid %}
     {% endfor %}
   </div>
