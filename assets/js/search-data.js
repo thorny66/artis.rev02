@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-team",
+          title: "team",
+          description: "hello said the team",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/team/";
+          },
         },{id: "nav-artists",
           title: "artists",
-          description: "hello",
+          description: "hello replied the artists",
           section: "Navigation",
           handler: () => {
             window.location.href = "/artists/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "hello",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -409,11 +409,11 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-5-11-25-pre-launch-launch",
-          title: '5/11/25 pre-launch launch',
-          description: "our unofficial debut, based around Plato&#39;s allegory of the cave.",
+          section: "News",},{id: "projects-5-11-25-quot-pre-launch-quot-launch",
+          title: '5/11/25 &amp;quot;Pre-Launch&amp;quot; Launch',
+          description: "our unofficial debut, based around Plato&#39;s Allegory of the Cave.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/1_projects/";
             },},{
         id: 'social-email',
         title: 'email',
