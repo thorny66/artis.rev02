@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 5/11/25 pre-launch launch
-description: our unofficial debut, based around Plato's allegory of the cave.
+title: 5/11/25 "Pre-Launch" Launch
+description: our unofficial debut, based around Plato's Allegory of the Cave.
 img: assets/img/cavethumbnail.jpg
 importance: 1
 category: big events
@@ -22,12 +22,12 @@ On May 11th 2025, we debut ourselves to the world. We featured many artists duri
     </div>
 </div>
 <div class="caption">
-    left: Sean McDonald, Tania Cosma, and Trent Horio. middle: Eddie Chen. right: Peyton Dexter, Kaz Hudson, and Brayden Meng.
+    left: Sean McDonald, Tania Cosma, and Trent Horio. middle: Eddie Chen. right: Brayden Meng, Kaz Hudson, and Peyton Dexter.
 </div>
 
-our performance featured a dancer, Eddie Chen, as our hero. additionally, we had musical performances of pieces new and classic, audience-driven robot violin experements, and five (5) large glass pannels in the middle of everything. i would love to sit around and describe it in further detail, but it's really better to view the performance yourself on our "You Tube".
+our performance featured a dancer, Eddie Chen, as our hero. additionally, we had musical performances of pieces new and classic, audience-driven sound experiments, and five (5) large glass pannels in the middle of everything. i would love to sit around and describe it in further detail, but it's really better to view the performance yourself on our "YouTube".
 
-our afterparty was an oppritunity for everyone involved to connect with the audience, share new ideas, and make new friends. Yay!. we provided thematic food, audience draw-to-piano experiments, and a breathtaking view.
+our afterparty was an opportunity for everyone involved to connect with the audience, share new ideas, and make new friends. Yay! we provided thematic food, audience drawing-to-piano experiments, and a breathtaking view.
 
 above is our performance. below is our afterparty. observe them until you do not want to anymore.
 
