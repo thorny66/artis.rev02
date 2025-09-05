@@ -39,8 +39,8 @@ profiles:
 
   - align: right
     image: rhino.png
-    content: rhinofacts.md
+    content: eddie_chen.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      thomas.stenzel@artissf.com      
+      thomas.stenzel@artissf.com
 ---
