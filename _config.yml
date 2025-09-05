@@ -149,6 +149,8 @@ collections:
     output: true
   gallery:
     output: true
+  projects:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
