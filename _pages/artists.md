@@ -2,16 +2,16 @@
 layout: profiles
 permalink: /artists/
 title: artists
-description: hello
+description: hello replied the artists
 nav: true
-nav_order: 4
+nav_order: 7
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
     image: brayden_pfp.JPG
-    content: about_einstein.md
+    content: brayden_meng.md
     image_circular: false # crops the image to make it circular
     more_info: >
       brayden.meng@artissf.com
@@ -36,4 +36,25 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       thomas.stenzel@artissf.com
+
+  - align: right
+    image: rhino.png
+    content: eddie_chen.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      This is Eddie Chen.
+
+  - align: left
+    image: thomas_pfp.JPG
+    content: kay_karsono.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      This is Kay Karsono.
+
+  - align: right
+    image: rhino.png
+    content: chloe_hill.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      This is Chloe Hill.
 ---
