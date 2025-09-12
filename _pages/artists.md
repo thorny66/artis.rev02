@@ -38,23 +38,23 @@ profiles:
       thomas.stenzel@artissf.com
 
   - align: right
-    image: rhino.png
+    image: performance_eddie.JPG
     content: eddie_chen.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      This is Eddie Chen.
+      Instagram @eddie_edwords
 
   - align: left
-    image: thomas_pfp.JPG
+    image: kay_pfp.jpg
     content: kay_karsono.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      This is Kay Karsono.
+      http://kaykarsono.journoportfolio.com/
 
   - align: right
-    image: rhino.png
+    image: chloe_pfp.JPG
     content: chloe_hill.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      This is Chloe Hill.
+      Instagram @chloehillphotos
 ---
